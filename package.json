@@ -31,14 +31,12 @@
     "koa-logger": "^3.2.0",
     "koa-router": "^7.4.0",
     "koa-static-cache": "^5.1.2",
-    "nodemon": "^1.18.9",
     "promise": "^8.0.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-router-dom": "^4.3.1",
     "rimraf": "^2.6.2",
     "run-sequence": "^2.2.1",
-    "webpack": "^4.27.1",
-    "webpack-node-externals": "^1.7.2"
+    "webpack": "^4.27.1"
   }
 }
