@@ -1,8 +1,6 @@
-html {
-    font-family: Arial, Helvetica, sans-serif;
-}
+$bg-color: #f0f0f0;
+$text-color: #333333;
 
-body {
-    background-color: #e0e0e0;
-    color: #333333;
-}
+@import 'base';
+@import 'figure';
+@import 'nav';

@@ -2,15 +2,6 @@
 
 Starter kit for a React single-page app.
 
-# TODO
-
-* test static build on non-root url with react-routed fragments
-* make three routes for /, /about, and a default "lost" 404 page
-* make some nav links
-* make some base styles
-* use generic loading graphic
-* dynamically inject some variables into the html container
-
 
 ## Setup
 
